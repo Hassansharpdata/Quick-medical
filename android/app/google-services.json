@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477957133740",
+    "project_id": "medical-flutter--app",
+    "storage_bucket": "medical-flutter--app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477957133740:android:260525788be252e525d609",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1C7FfHcUXvaRMdsU_tKDWrYwz_MU20U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
